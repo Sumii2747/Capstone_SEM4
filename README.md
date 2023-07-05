@@ -6,4 +6,4 @@ This repository contains the NGSIM Cleaned Dataset, a cleaned and preprocessed v
 
 In the ipynb file designated as **01_read_and_clean**, we eliminated the **Lane Changing Vehicle** and simply selected the "Non Lane Changing Vehicle." Additionally, we kept the vehicles from lanes 1, 2, and 3 and deleted certain information where there was no preceding vehicle. 
 
-
+**02_Exploratory_of_Dataset** 
